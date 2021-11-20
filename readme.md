@@ -1,4 +1,4 @@
-##An A\* Pathfinding Algorithm
+An A* Pathfinding Algorithm
 
 Software Used:
 Xampp Server
